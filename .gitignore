@@ -1,0 +1,24 @@
+# Compiled files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+/main
+
+# Build output
+/bin/
+/obj/
+/build/
+/cmake-build-*/
+
+# Code::Blocks generated files
+*.depend
+*.layout
+
+# macOS
+.DS_Store
